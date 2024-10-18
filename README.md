@@ -141,3 +141,5 @@ This design allows for rapid prototyping and testing of various configurations w
 + [Open-SmartWatch](https://open-smartwatch.github.io/)
 + [Bangle.js - Getting Started](https://banglejs.com/start2)
 + [estherbm/Open-BioBand: Biometric Open Source wristband](https://github.com/estherbm/Open-BioBand)
++ [Open Source Health Activity Kit](https://www.openhak.com/)
++ 
