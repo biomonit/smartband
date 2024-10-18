@@ -39,3 +39,5 @@ Taka konstrukcja zapewnia większą elastyczność i możliwość dostosowania d
 - Stopniowe ulepszanie produktu przez dodawanie nowych modułów bez konieczności przeprojektowywania całego urządzenia.
 - Obniżenie kosztów produkcji i rozwoju dzięki możliwości wykorzystania standardowych komponentów w modułach.
 
+przykładowy protoyp z meidzianymi drutami 0.5mm łączącymi kolejne bloki 
+![obraz](https://github.com/user-attachments/assets/d12afcd2-66d3-492d-8744-9fb97ab14862)
